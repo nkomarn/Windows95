@@ -1,2 +1,2 @@
-# Windows95
-Unofficial Windows 95 Simulator
+# Computing Through the Ages (until we get a better name)
+Unofficial Windows (and may Mac too) simulator
