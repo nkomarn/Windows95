@@ -1,0 +1,5 @@
+/Users/cunninghamj/RiderProjects/PLTW 1.2.3/PLTW 1.2.3/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cunninghamj/RiderProjects/PLTW 1.2.3/PLTW 1.2.3/bin/Debug/PLTW1.2.3.exe.mdb
+/Users/cunninghamj/RiderProjects/PLTW 1.2.3/PLTW 1.2.3/bin/Debug/PLTW1.2.3.exe
+/Users/cunninghamj/RiderProjects/PLTW 1.2.3/PLTW 1.2.3/obj/Debug/PLTW1.2.3.exe
+/Users/cunninghamj/RiderProjects/PLTW 1.2.3/PLTW 1.2.3/obj/Debug/PLTW1.2.3.exe.mdb
